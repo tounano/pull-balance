@@ -2,7 +2,7 @@
   "name": "pull-balance",
   "version": "0.0.1",
   "main": "./balance.js",
-  "description": "A load balancer for through pull streams.",
+  "description": "Load Balancer for through pull streams.",
   "homepage": "https://github.com/tounano/pull-balance/",
   "author": "ClickHere <js@clickhere.co.il>",
   "keywords": [

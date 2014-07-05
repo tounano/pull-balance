@@ -1,6 +1,6 @@
 # pull-balance
 
-A load balancer for through pull streams.
+Load Balancer for through pull streams.
 
 ## Usage
 
